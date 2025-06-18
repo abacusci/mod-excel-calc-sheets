@@ -101,7 +101,7 @@ Each session lasts 2 hours. Two classes per week. Total: 16 hours.
 
 ## 📝 Registration
 
-Fill out the registration form here: [Enrollment Form](https://abacusci.com/en/enroll-excel-2507)
+Fill out the registration form here: https://abacusci.com/module/excel-calc-and-spreadsheets
 
 ---
 
