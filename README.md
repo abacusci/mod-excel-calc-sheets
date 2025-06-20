@@ -1,4 +1,4 @@
-# Excel, Calc & Google Sheets – July 2025
+# Excel, Calc & Google Sheets
 
 ```
 |     |   A   |   B   |   C   |   D   |   E   |
@@ -10,7 +10,7 @@
 |  5  |       |       |       | =SUM(D2:D4) | |
 ```
 
-Welcome to the official repository for the **July 2025 edition** of our spreadsheet productivity module at **Abacus Computing Institute**.
+Welcome to the official repository for the our spreadsheet productivity module at **Abacus Computing Institute**.
 
 This module is designed for students (Builders level) who want to master spreadsheet tools in a progressive, integrated and professional way — starting from the basics and reaching advanced techniques, automation and external integrations.
 
