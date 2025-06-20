@@ -89,7 +89,7 @@ Each session lasts 2 hours. Two classes per week. Total: 16 hours.
 ## ⏱️ Schedule & Format
 
 - **Duration**: 4 hours per week (2 sessions)
-- **Start Date**: July 7, 2025
+- **Start Date**: [pending]
 - **Modality**: Online and onsite (Paramaribo center)
 - **Wiki**: Full documentation and resources (coming soon)
 
@@ -98,10 +98,6 @@ Each session lasts 2 hours. Two classes per week. Total: 16 hours.
 - Own laptop or tablet (mandatory)
 - Basic knowledge of computer usage
 - Ability to understand English instructions
-
-## 📝 Registration
-
-Fill out the registration form here: https://abacusci.com/module/excel-calc-and-spreadsheets
 
 ---
 
